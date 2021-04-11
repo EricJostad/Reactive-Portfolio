@@ -1,6 +1,6 @@
 import Modal from 'react-bootstrap/Modal';
 
-const wrapper = ({ title, children }) => {
+const Wrapper = ({ title, children }) => {
     return (
         <Modal.Dialog className='modal-lg mx-5' role='document'>
             <Modal.Header>
@@ -13,4 +13,4 @@ const wrapper = ({ title, children }) => {
     );
 }
 
-export default wrapper;
+export default Wrapper;
