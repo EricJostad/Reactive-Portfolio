@@ -31,20 +31,44 @@ const Body = () => {
                 <a href='Portfolio\reactive-portfolio\src\assets\downloads\Eric Jostad Resume 2021.pdf' download='Eric Jostad Resume 2021.pdf'>Download</a>
             </Wrapper>
             <Wrapper title='Projects'>
+                <p className='pt-5'>Mad Libz</p>
                 <Row>
                     <Col lg={6}>
+                        <img
+                            src='.../assets/images/MadLibz.PNG'
+                            alt='Mad-Libz' />
                     </Col>
                     <Col lg={2}>
+                        <a
+                            className='align-self-center'
+                            href='https://teammadlibz.github.io/MadLibz/'
+                        >Deployed Link</a>
                     </Col>
                     <Col lg={4}>
+                        <a
+                            className='align-self-center'
+                            href='https://github.com/EricJostad/MadLibz-1'
+                        >Repository</a>
                     </Col>
                 </Row>
+                <p className='pt-5'>Better Books</p>
                 <Row>
                     <Col lg={6}>
+                        <img
+                            src='.../assets/images/betterbooks.PNG'
+                            alt='Better-Books' />
                     </Col>
                     <Col lg={2}>
+                        <a
+                            className='align-self-center'
+                            href='https://fathomless-taiga-07873.herokuapp.com/'
+                        >Deployed Link</a>
                     </Col>
                     <Col lg={4}>
+                        <a
+                            className='align-self-center'
+                            href='https://github.com/EricJostad/Better-Books'
+                        >Repository</a>
                     </Col>
                 </Row>
             </Wrapper>
