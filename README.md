@@ -14,7 +14,7 @@ This is an improved portfolio that uses React as the framework technology.
 
 ### Description of Project
 
-- This is a work-in-progress portfolio that uses React as the primary technology libray and will replace my previous portfolio, located here: https://ericjostad.github.io/Portfolio/index.html
+- This is a work-in-progress portfolio that uses React as the primary technology libray and will replace my current portfolio, located here: https://ericjostad.github.io/Portfolio/index.html
 
 
 ### Technologies
